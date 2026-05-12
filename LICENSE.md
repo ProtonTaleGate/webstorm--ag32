@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains WebStorm for PC | JetBrains WebStorm for Windows with vip JetBrains WebStorm for PC | JetBrains WebStorm for Windows Integration | database-tools +
 
 
 
